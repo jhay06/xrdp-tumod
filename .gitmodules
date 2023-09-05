@@ -11,4 +11,5 @@
 	ignore = untracked
 [submodule "ulalaca"]
 	path = ulalaca
+	branch = fix/divzero
 	url = https://github.com/team-unstablers/ulalaca-xrdp.git
